@@ -1,5 +1,4 @@
 # What_if_coffee
-Impact of Climate Variability and Water Excess on Coffee Yield. Case Study: Ciudad Bolívar, Antioquia, Colombia (2015–2024)
 # Agroclimatic Analysis: Impact of Climate Variability and Water Excess on Coffee Yield
 ### Case Study: Ciudad Bolívar, Antioquia, Colombia (2015–2024)
 
@@ -20,8 +19,6 @@ By consolidating 10 years of monthly climatological records from **IDEAM** (stat
 
 ## Key Statistical Findings
 
-## Key Statistical Findings
-
 | Metric | Value | Interpretation |
 |---|---|---|
 | **Precipitation vs. Yield Correlation (r)** | **-0.647** | Strong negative relationship; excess precipitation dampens yield |
@@ -39,7 +36,8 @@ In 2021, intense La Niña conditions drove municipal rainfall to a record **3,09
 
 An interactive dashboard was developed in **Tableau** to present executive insights and dynamic visual storytelling.
 
-[Dashboard Preview]<img width="1499" height="1199" alt="Rendimiento_cafe_temperatura" src="https://github.com/user-attachments/assets/54bb10e5-08e3-4e73-b1c2-f8e9bee48ae5" />
+<img width="999" height="799" alt="Rendimiento_cafe_temperatura" src="https://github.com/user-attachments/assets/da3eb91e-245d-4cfa-a8dd-ac990a2b2bd4" />
+
 
 
 
